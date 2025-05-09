@@ -1,0 +1,32 @@
+According to Einstein's theory of relativity, what is the equivalence of mass and energy expressed by the famous equation E=mc^2?
+Energy equals mass times acceleration
+Energy equals mass times the speed of light squared
+b
+What is the process by which a large nucleus splits into smaller nuclei, releasing a significant amount of energy?
+Nuclear fusion
+Nuclear fission
+b
+What is the phenomenon where two or more waves combine to form a new wave, either reinforcing or canceling each other out?
+Diffraction
+Interference
+b
+What class of particles, consisting of protons and neutrons, make up the nucleus of an atom?
+Leptons
+Quarks
+b
+What is the term for the bending of light around a massive object, such as a star or a black hole?
+Reflection
+Gravitational lensing
+b
+What is the term for the resistance of a fluid to flow, often represented by the Greek letter eta?
+Density
+Viscosity
+b
+What law describes the relationship between the electric current flowing through a conductor and the magnetic field it produces?
+Ohm's Law
+Ampere's law
+b
+According to Heisenberg's uncertainty principle, what two properties of a particle cannot be simultaneously known with perfect accuracy?
+Position and velocity
+Mass and Charge
+a

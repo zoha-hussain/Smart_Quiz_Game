@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Smart Quiz Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Smart Quiz Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\DoubleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:DoubleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\NodeDoubleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:NodeDoubleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\LeaderBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:LeaderBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Avl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Avl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\SingleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:SingleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\NodeSingleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:NodeSingleLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\nodeTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1D2203-5667-4047-9148-D2FB98C01DAE}|Smart Quiz Game.vcxproj|solutionrelative:nodeTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cpp",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Students.cpp",
+              "RelativeDocumentMoniker": "Students.cpp",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Students.cpp",
+              "RelativeToolTip": "Students.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-02T07:59:20.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cpp",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Teacher.cpp",
+              "RelativeDocumentMoniker": "Teacher.cpp",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Teacher.cpp",
+              "RelativeToolTip": "Teacher.cpp",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-02T08:00:35.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Teacher.h",
+              "RelativeDocumentMoniker": "Teacher.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Teacher.h",
+              "RelativeToolTip": "Teacher.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-02T08:01:04.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Smart Quiz Game.cpp",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Smart Quiz Game.cpp",
+              "RelativeDocumentMoniker": "Smart Quiz Game.cpp",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Smart Quiz Game.cpp",
+              "RelativeToolTip": "Smart Quiz Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-25T14:53:16.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaderBoard.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\LeaderBoard.h",
+              "RelativeDocumentMoniker": "LeaderBoard.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\LeaderBoard.h",
+              "RelativeToolTip": "LeaderBoard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-02T07:56:19.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NodeDoubleLL.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\NodeDoubleLL.h",
+              "RelativeDocumentMoniker": "NodeDoubleLL.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\NodeDoubleLL.h",
+              "RelativeToolTip": "NodeDoubleLL.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T15:52:14.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoubleLL.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\DoubleLL.h",
+              "RelativeDocumentMoniker": "DoubleLL.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\DoubleLL.h",
+              "RelativeToolTip": "DoubleLL.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T16:05:58.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-02T08:01:38.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-02T07:58:32.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Question.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Question.h",
+              "RelativeDocumentMoniker": "Question.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Question.h",
+              "RelativeToolTip": "Question.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T14:56:46.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-02T08:02:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Avl.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Avl.h",
+              "RelativeDocumentMoniker": "Avl.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Avl.h",
+              "RelativeToolTip": "Avl.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T14:55:29.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Question.cpp",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Question.cpp",
+              "RelativeDocumentMoniker": "Question.cpp",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Question.cpp",
+              "RelativeToolTip": "Question.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-25T14:54:16.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subject.cpp",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Subject.cpp",
+              "RelativeDocumentMoniker": "Subject.cpp",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Subject.cpp",
+              "RelativeToolTip": "Subject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-25T14:53:53.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SingleLL.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\SingleLL.h",
+              "RelativeDocumentMoniker": "SingleLL.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\SingleLL.h",
+              "RelativeToolTip": "SingleLL.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T14:57:07.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NodeSingleLL.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\NodeSingleLL.h",
+              "RelativeDocumentMoniker": "NodeSingleLL.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\NodeSingleLL.h",
+              "RelativeToolTip": "NodeSingleLL.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T14:55:56.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Queue.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Queue.h",
+              "RelativeDocumentMoniker": "Queue.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Queue.h",
+              "RelativeToolTip": "Queue.h",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwD4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-02T07:57:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Subject.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Subject.h",
+              "RelativeDocumentMoniker": "Subject.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\Subject.h",
+              "RelativeToolTip": "Subject.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T14:57:31.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "nodeTree.h",
+              "DocumentMoniker": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\nodeTree.h",
+              "RelativeDocumentMoniker": "nodeTree.h",
+              "ToolTip": "C:\\Users\\windows 10\\Desktop\\personal\\DS\\Smart Quiz Game\\nodeTree.h",
+              "RelativeToolTip": "nodeTree.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-25T14:56:21.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

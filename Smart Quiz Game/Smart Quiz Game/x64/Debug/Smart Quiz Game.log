@@ -1,0 +1,51 @@
+﻿  Question.cpp
+  Smart Quiz Game.cpp
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\LeaderBoard.h(18,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Smart%20Quiz%20Game.cpp')
+  
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\LeaderBoard.h(36,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Smart%20Quiz%20Game.cpp')
+  
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\LeaderBoard.h(45,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Smart%20Quiz%20Game.cpp')
+  
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\LeaderBoard.h(49,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Smart%20Quiz%20Game.cpp')
+  
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\LeaderBoard.h(65,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Smart%20Quiz%20Game.cpp')
+  
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Smart Quiz Game.cpp(103,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Smart Quiz Game.cpp(105,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Smart Quiz Game.cpp(116,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Smart Quiz Game.cpp(118,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Students.cpp
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\DoubleLL.h(143,24): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\DoubleLL.h(143,24): warning C4244:         with
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\DoubleLL.h(143,24): warning C4244:         [
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\DoubleLL.h(143,24): warning C4244:             _Rep=__int64
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\DoubleLL.h(143,24): warning C4244:         ]
+  (compiling source file 'Students.cpp')
+  C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\DoubleLL.h(143,24):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Students.cpp(121,21):
+  	see reference to class template instantiation 'DoubleLL<Question>' being compiled
+  	C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\DoubleLL.h(122,7):
+  	while compiling class template member function 'void DoubleLL<Question>::printQuestions(NodeDoubleLL<T> *,Student &)'
+          with
+          [
+              T=Question
+          ]
+  		C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Students.cpp(137,20):
+  		see the first reference to 'DoubleLL<Question>::printQuestions' in 'Student::openQuiz'
+  
+  Subject.cpp
+  Teacher.cpp
+  User.cpp
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\User.cpp(61,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\User.cpp(70,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\User.cpp(80,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Avl.h(212,1): warning C4715: 'AVLtree<Teacher>::search': not all control paths return a value
+C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\Avl.h(212,1): warning C4715: 'AVLtree<Student>::search': not all control paths return a value
+  Smart Quiz Game.vcxproj -> C:\Users\windows 10\Desktop\personal\DS\Smart Quiz Game\x64\Debug\Smart Quiz Game.exe

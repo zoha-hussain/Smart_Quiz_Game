@@ -1,0 +1,32 @@
+What is the result of 5 + 7?
+10
+12
+b
+If a rectangle has a length of 8 units and a width of 3 units, what is its area?
+24 square units
+30 square units
+a
+What is the square root of 64?
+8
+6
+a
+If x = 3 and y = 5, what is the value of 2x + y?
+11
+13
+b
+If a triangle has angles measuring 30, 60, and 90 degrees, what type of triangle is it?
+Equilateral
+Right-angled
+b
+Find the missing number: 8, 16, __, 32, 64
+24
+48
+a
+If the circumference of a circle is 12pi, what is its radius?
+2
+3
+a
+What is the value of 3 to the power of 4?
+27
+81
+b

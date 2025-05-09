@@ -1,0 +1,28 @@
+What does the "if-else" statement do in programming?
+Repeats a block of code
+Allows for conditional execution of code
+b
+What is an algorithm?
+A step-by-step procedure or formula for solving a problem
+A type of programming language
+a
+In the binary system, what is the base of counting?
+8
+2
+b
+What is the purpose of the "cout" statement in C++?
+It reads input from the user
+It prints output to the console
+b
+How do you declare a variable in C++ to store integer values?
+int x
+variable x
+a
+Which of the following loops will execute its body at least once?
+for loop
+do-while loop
+b
+How do you access the third element in an array named "numbers"?
+numbers[2]
+numbers[3]
+a

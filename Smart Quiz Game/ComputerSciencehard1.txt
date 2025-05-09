@@ -1,0 +1,40 @@
+What is the primary purpose of C++ templates?
+To define constants
+To write generic programs
+b
+What is the purpose of the vector container in the C++ STL?
+To represent a dynamic array
+To store key-value pairs
+a
+What does the delete operator do in C++ when used with a pointer to dynamically allocated memory?
+Frees the memory and sets the pointer to null
+Frees the memory but leaves the pointer unchanged
+a
+Which of the following correctly declares a pointer to a constant integer in C++?
+const int* ptr;
+int* const ptr;
+a
+Which keyword is used to declare a pure virtual function in a C++ class?
+abstract
+virtual
+b
+If x=5 and int*ptr=&x, what is the output of "cout << *ptr;"?
+5
+6
+a
+For arr[] = {1, 2, 3, 4, 5}, what is value of *(arr+3)?
+3
+4
+b
+Which of the following correctly declares a reference to a constant integer in C++?
+int& const ref = x;
+const int& ref = x;
+b
+What is the worst case time complexity of binary search?
+O(n)
+O(logn)
+b
+When implementing a sorting algorithm in C++, which one of the following options is likely to have a better average-case time complexity for a large dataset?
+Bubble Sort
+Merge sort
+b

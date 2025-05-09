@@ -1,0 +1,24 @@
+Biology 1 1
+Biologyeasy1 
+Biologyhard1 
+Chemistry 1 1
+Chemistryeasy1 
+Chemistryhard1 
+ComputerScience 1 1
+ComputerScienceeasy1 
+ComputerSciencehard1 
+English 1 1
+Englisheasy1 
+Englishhard1 
+Geography 1 1
+Geographyeasy1 
+Geographyhard1 
+History 1 1
+Historyeasy1 
+Historyhard1 
+Maths 2 1
+Mathseasy1 Mathseasy2  
+Mathshard1 
+Physics 1 1
+Physicseasy1 
+Physicshard1 
